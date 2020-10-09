@@ -1,5 +1,5 @@
 # web_scrapping
-- web scrapping for M&A business dev 
+- project: web scrapping for M&A business dev 
 
 ### readings
 - iterate through div inside html https://stackoverflow.com/questions/15843581/how-to-correctly-iterate-through-getelementsbyclassname
