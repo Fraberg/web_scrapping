@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=TzZ3YOUhCxo
+
+$ npm init -y
+
+$ npm install puppeteer
+$ npm i -save puppeteer@1.7.0
+
+$ npm config set PUPPETEER_SKIP_CHROMIUM_DOWNLOAD false
+$ npm config set ignore-scripts false
+$ npm config set ignore-scripts true
+
+// https://stackoverflow.com/questions/61770784/typeerror-err-invalid-arg-type-the-original-argument-must-be-of-type-functi
