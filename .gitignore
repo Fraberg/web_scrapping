@@ -1,5 +1,8 @@
 levillagebyca_data.xlsx
 CA.txt
+linkedin.xlsx
+config.json
+node_modules/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,node
