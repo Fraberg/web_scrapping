@@ -1,5 +1,7 @@
 # web_scrapping
-- project: web scrapping for M&A business dev 
+- project: LinkedIn web scrapping for M&A business dev
+- input data: 1000+ startups presented here https://www.levillagebyca.com/fr/startups
+- ouput data: excel file with company_name / site_url / linkedin_profile / number_of_employee info for each startup
 
 ## readings
 ### javascript stuff
