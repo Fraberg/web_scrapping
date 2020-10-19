@@ -15,3 +15,7 @@
 ### python stuff
 - classes in python https://www.w3schools.com/python/python_classes.asp
 - create excel file w/ python https://xlsxwriter.readthedocs.io/index.html
+
+## results
+
+![result](screenshot.png)
