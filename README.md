@@ -1,5 +1,7 @@
 # web_scrapping
-- project: web scrapping for M&A business dev 
+- project: LinkedIn web scrapping for M&A business dev
+- input data: web page with 1000+ startups, see https://www.levillagebyca.com/fr/startups
+- ouput data: excel file with company_name / site_url / linkedin_profile / number_of_employee info for each startup
 
 ## readings
 ### javascript stuff
@@ -15,3 +17,7 @@
 ### python stuff
 - classes in python https://www.w3schools.com/python/python_classes.asp
 - create excel file w/ python https://xlsxwriter.readthedocs.io/index.html
+
+## results
+
+![result](screenshot.png)
